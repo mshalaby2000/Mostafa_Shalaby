@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mostafa Al-Araby Shalaby - Resume</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; }
+        h1, h2 { color: #333; }
+        .contact { margin-bottom: 20px; }
+        .section { margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mostafa Al-Araby Shalaby</h1>
+        <p class="contact">
+            📞 (+20) 1555540680 | ✉️ <a href="mailto:mostafashalaby@engineer.com">mostafashalaby@engineer.com</a> |
+            GitHub: <a href="https://github.com/mostafaalaraby" target="_blank">mostafaalaraby</a>
+        </p>
+    </header>
+
+    <section class="section">
+        <h2>Objective</h2>
+        <p>Mechanical Engineer with expertise in Production Planning, desalination, and rotary machinery. 
+        Experienced in Arduino-based control systems and renewable energy applications.</p>
+    </section>
+
+    <section class="section">
+        <h2>Education</h2>
+        <p><strong>Zagazig University</strong> – Faculty of Engineering<br>
+        Bachelor’s degree in Mechanical Power Engineering (2018 - 2023) – <strong>Good</strong></p>
+    </section>
+
+    <section class="section">
+        <h2>Experience</h2>
+        <h3>Production Planning Engineer – EGIC</h3>
+        <p>Jul. 2024 – Present</p>
+        <ul>
+            <li>Create Monthly MPS and MRP for production planning.</li>
+            <li>Manage material consumption and prepare reports.</li>
+            <li>Maintain SAP master data and use Power BI for analysis.</li>
+        </ul>
+
+        <h3>Export Planning Engineer – Q Medical Industries</h3>
+        <p>Sept. 2023 – Jul. 2024</p>
+        <ul>
+            <li>Planned export production using SAP.</li>
+            <li>Coordinated with Procurement, Logistics, and Quality.</li>
+        </ul>
+
+        <h3>Freelance Mechanical Design Engineer</h3>
+        <p>Apr. 2023 – Present</p>
+        <ul>
+            <li>Designed mechanical parts using SolidWorks & AutoCAD.</li>
+            <li>Optimized designs for 3D printing and CNC machining.</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>AutoCAD, SOLIDWORKS, SAP, MS Office</li>
+            <li>Production Planning & MRP</li>
+            <li>Technical Writing & Problem-Solving</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Languages</h2>
+        <p>Arabic (Native), English (B2)</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Mostafa Al-Araby Shalaby</p>
+    </footer>
+</body>
+</html>
